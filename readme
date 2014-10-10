@@ -1,0 +1,8 @@
+sudo apt-get install git
+git config --global user.name "qian-liu"
+git config --global user.email "qianliu.bjut@gmail.com"
+cd icann
+git init
+git add .
+git commit -m 'fisrt commit'
+
